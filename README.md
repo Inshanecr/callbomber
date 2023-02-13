@@ -28,7 +28,7 @@ To run tests, run the following command
 ```
 
 ```bash
-  python3 sms.pyc
+  python3 clibot.py --apiid YourApiId --apihash YourApiHash --bottoken YourBotToken
 ```
 
 
@@ -42,7 +42,7 @@ For support, email supercell9us@gmail.com or DM me on [telegram](@autohexme)
 ![App Screenshot](https://github.com/Inshanecr/callbomber/blob/main/Screenshot_20230213-143833_Termius.jpg)
 
 
-## Run Locally
+## Run ON TERMUX & LINUX OS
 
 Clone the project
 
@@ -70,7 +70,7 @@ Install dependencies
 Start the server
 
 ```bash
-  python3 sms.pyc
+  python3 clibot.py --apiid YourApiId --apihash YourApiHash --bottoken YourBotToken
 ```
 
 
