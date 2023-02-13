@@ -39,7 +39,7 @@ For support, email supercell9us@gmail.com or DM me on [telegram](@autohexme)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/Inshanecr/callbomber/blob/main/Screenshot_20230213-143833_Termius.jpg)
 
 
 ## Run Locally
