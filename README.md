@@ -78,5 +78,3 @@ Start the server
 [![GNU GPLv3 Image](https://telegram.org/img/t_logo.png)](http://t.me/LooQaat)
 
 #### Don't Forgot to share with Your Friends. 
-### The new Update get will soon for Windows.
-#### Thank you ! ! ! 
