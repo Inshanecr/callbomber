@@ -6,7 +6,7 @@
 - [@AutoHexMe](http://t.me/LooQaat)
 - [@ResQQ](http://t.me/Resqq)
 # Project Title
-iranina cli SMS & CALL bomber with 184 api 
+iranian cli SMS & CALL bomber with 184 api 
 write by pyrogram
 You can run on vps or Termux 
 ## Contributing
