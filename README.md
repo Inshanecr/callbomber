@@ -28,7 +28,7 @@ To run tests, run the following command
 ```
 
 ```bash
-  python3 clibot.py --apiid YourApiId --apihash YourApiHash --bottoken YourBotToken
+  python3 sms.pyc --apiid YourApiId --apihash YourApiHash --bottoken YourBotToken
 ```
 
 
@@ -70,7 +70,7 @@ Install dependencies
 Start the server
 
 ```bash
-  python3 clibot.py --apiid YourApiId --apihash YourApiHash --bottoken YourBotToken
+  python3 sms.pyc --apiid YourApiId --apihash YourApiHash --bottoken YourBotToken
 ```
 
 
