@@ -3,8 +3,8 @@
 
 ## Authors
 
-- [@AutoHexMe](t.me/AutoHexme)
-- [@ResQQ](t.me/Resqq)
+- [@AutoHexMe](http://t.me/LooQaat)
+- [@ResQQ](http://t.me/Resqq)
 # Project Title
 iranina cli SMS & CALL bomber with 184 api 
 write by pyrogram
